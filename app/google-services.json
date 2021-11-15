@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320129739697",
+    "project_id": "unidad3-5eb72",
+    "storage_bucket": "unidad3-5eb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320129739697:android:38ee5cd1a946d1ecac6b90",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_ejercicio2_sql_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320129739697-qvtham79djqjink3r4pgm7ekn095enfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnuUSSMPQSPanIAX6bsVNLvW1SmtN2lwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320129739697-qvtham79djqjink3r4pgm7ekn095enfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
